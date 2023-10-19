@@ -4,5 +4,6 @@
 
 使用 
 ``` shell
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/h1code2/install_script/main/{script_name})"
+# centos7 install docker
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/h1code2/install_script/main/install_docker.sh)"
 ```
